@@ -1,6 +1,6 @@
-# 🚗 LoopGO
+# 🚗 LoopGO 2.0.0 initialize version
 
-**Bildrive** est une **plateforme web innovante** de mobilité intégrée, conçue pour répondre à deux besoins essentiels :  
+**LoopGO** est une **plateforme web innovante** de mobilité intégrée, conçue pour répondre à deux besoins essentiels :  
 le **transport de personnes** (type covoiturage) et la **livraison de colis**, dans une seule et même application simple, fluide et sécurisée.
 
 > Un modèle hybride inédit qui mutualise les trajets pour réduire les coûts, tout en optimisant la rentabilité des chauffeurs.
